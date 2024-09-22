@@ -130,6 +130,7 @@ PID algoritması parametreleri:
 
 # Örnek kamera görüntüsü
 ![Kamera Örnek Görüntü](https://github.com/12enes34/Line_Tracking_With_Image_Processing/blob/main/Screenshot%202024-09-22%20103050.png)
+![Kamera Örnek Görüntü2](https://github.com/12enes34/Line_Tracking_With_Image_Processing/blob/main/Screenshot%202024-09-22%20103121.png)
 
 - Siyah çizgi ortasında ki mavi çizgi eğimi ifade ediyor
 - Sol üstteki kırmızı renkli sayı eğimi veriyor

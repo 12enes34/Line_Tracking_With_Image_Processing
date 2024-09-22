@@ -136,8 +136,8 @@ PID algoritması parametreleri:
 - Sol üstteki kırmızı renkli sayı eğimi veriyor
 - Sol ortadaki mavi renkli sayı hata oranını veriyor
 
-
-
+# Prototip 
+![Kamera Örnek Görüntü2](https://github.com/12enes34/Line_Tracking_With_Image_Processing/blob/main/%C3%87izgi_Takibi.gif)
 
 
 

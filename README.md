@@ -3,7 +3,8 @@
 - [Türkçe Bölüm](#turkce-bolum)
 - [English Section](#english-section)
 
-## Türkçe Bölüm <a id="turkce-bolum"></a>
+
+<h1 align="center" style="font-size: 62px;" id="turkce-bolum">TÜRKÇE</h1>
 # ESP Motor Kontrol ve Görüntü İşleme Projesi
 
 Bu proje, ESP modülü üzerinden motor kontrolü yaparak ve OpenCV kullanarak kamera görüntülerinde siyah çizgileri algılayarak PID algoritması ile çizgi takibi görevini yerine getirir. 
